@@ -1,0 +1,70 @@
+
+.wrapper{
+  background-image: url("https://img.freepik.com/free-vector/jobs-background-design_1200-196.jpg?t=st=1729671189~exp=1729674789~hmac=06e908c66fb41116c071922157ef28bd2b78cd735ed7ff32ac14c00577f3730b&w=740") ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 1;
+  width:118%;
+  height:100vh;
+  /* align-items: center;
+  justify-content: center; */
+   display: flex;
+}
+
+.nav{
+  vertical-align: top;
+  width:100%;
+  
+}
+.back{
+  background-image: url("https://img.freepik.com/free-vector/professional-career-elements-design_1200-212.jpg?ga=GA1.1.1034167561.1729668125&semt=ais_hybrid") ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 1;
+  width:118%;
+  height:100vh;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+.bg{
+  background-image: url("https://img.freepik.com/free-vector/professional-career-elements-design_1200-212.jpg?ga=GA1.1.1034167561.1729668125&semt=ais_hybrid") ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 1;
+  width:118%;
+  height:100vh;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  
+}
+.log,.sign{
+  background-color: rgba(255, 255, 255, 0.33);
+  box-shadow: 0px 8px 32px 0 rgba(0, 0, 255, 0.3);
+  backdrop-filter: blur(3px);
+  padding:18px 18px 18px 18px;
+  border-radius: 18px;
+}
+.user{
+  background-image: url("https://images.pexels.com/photos/531756/pexels-photo-531756.jpeg?auto=compress&cs=tinysrgb&w=600") ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 1;
+  width:120%;
+  height:150vh;
+  /* align-items: center;
+  justify-content: center; */
+  display: flex;
+}
+.adminn{
+  background-image: url("") ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 1;
+  width:118%;
+  height:100vh;
+  /* align-items: center;
+  justify-content: center; */
+  display: flex;
+}
